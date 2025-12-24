@@ -111,7 +111,8 @@ RegisterNumber:25005800
 ```
 
 ## Output:
-![SVM For Spam Mail Detection](sam.png)
+![SVM For Spam Mail Detection]![WhatsApp Image 2025-12-24 at 14 02 36_1129f79c](https://github.com/user-attachments/assets/0c72f739-3323-40e0-988f-da629d14c1d0)
+
 
 
 ## Result:
